@@ -32,6 +32,10 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
     - Escreva de forma informativa e motivadora, adaptando a linguagem para um público geral interessado em emagrecimento. Evite jargões técnicos e priorize a clareza."
 - **HARPER.AI**
   - **Prompt 1:** "A confident and healthy plus-size woman in a minimalist and bright environment, holding a kitchen scale in one hand and a colorful plate with fresh foods in the other, symbolizing a weight loss plan without exercise. She has a gentle smile, wearing casual and comfortable clothing. Background softly blurred with light and soft tones to convey lightness and positivity. Extreme realism, detailed textures, natural lighting, professional photographic style."
+  - 
+    ## 📖 Acesse o eBook
+Você pode baixar o eBook de emagrecimento e bem-estar [aqui](https://github.com/Lidianeamorim/eBook-Emagrecimento/blob/main/Plano%20de%20Emagrecimento%20Sem%20Exerc%C3%ADcios.pdf).
+
 
 ## ❤️ Considerações Finais
 Criar este eBook utilizando as IAs generativas foi uma experiência enriquecedora e desafiadora. A facilidade de gerar conteúdo com a ajuda de IA foi surpreendente, mas também exigiu muita dedicação e aprendizado, já que tudo era novo para mim. Com as aulas do professor Felipe Aguiar, consegui superar as dificuldades e criar um eBook que espero ser útil e inspirador para muitas pessoas.
